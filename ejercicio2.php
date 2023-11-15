@@ -35,5 +35,5 @@ class NumeroPrimo{
   }
 }
 
-$n = new NumeroPrimo(5);
+$n = new NumeroPrimo(1);
 echo $n->EncontrarNumeroPrimo();
